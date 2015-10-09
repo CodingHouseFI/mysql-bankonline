@@ -1,0 +1,21 @@
+{
+  "name": "bankonline",
+  "version": "0.0.1",
+  "description": "sample online sql api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sql",
+    "mysql"
+  ],
+  "author": "AM",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "http": "0.0.0",
+    "mysql": "^2.9.0"
+  }
+}
